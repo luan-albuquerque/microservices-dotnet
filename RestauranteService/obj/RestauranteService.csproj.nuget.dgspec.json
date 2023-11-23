@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\daniel.mastub\\aluramicro\\RestauranteService\\RestauranteService.csproj": {}
+    "C:\\Users\\luan.albuquerque\\Documents\\Luan\\microservices-dotnet\\RestauranteService\\RestauranteService.csproj": {}
   },
   "projects": {
-    "C:\\Users\\daniel.mastub\\aluramicro\\RestauranteService\\RestauranteService.csproj": {
+    "C:\\Users\\luan.albuquerque\\Documents\\Luan\\microservices-dotnet\\RestauranteService\\RestauranteService.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\daniel.mastub\\aluramicro\\RestauranteService\\RestauranteService.csproj",
+        "projectUniqueName": "C:\\Users\\luan.albuquerque\\Documents\\Luan\\microservices-dotnet\\RestauranteService\\RestauranteService.csproj",
         "projectName": "RestauranteService",
-        "projectPath": "C:\\Users\\daniel.mastub\\aluramicro\\RestauranteService\\RestauranteService.csproj",
-        "packagesPath": "C:\\Users\\daniel.mastub\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\daniel.mastub\\aluramicro\\RestauranteService\\obj\\",
+        "projectPath": "C:\\Users\\luan.albuquerque\\Documents\\Luan\\microservices-dotnet\\RestauranteService\\RestauranteService.csproj",
+        "packagesPath": "C:\\Users\\luan.albuquerque\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\luan.albuquerque\\Documents\\Luan\\microservices-dotnet\\RestauranteService\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\daniel.mastub\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\luan.albuquerque\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -79,7 +79,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -91,7 +92,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
         }
       }
     }
